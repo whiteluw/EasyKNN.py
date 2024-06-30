@@ -1,4 +1,4 @@
-# EasyKNN  
+# EasyKNN.py  
 基于Python的简易易上手傻瓜式KNN分类模型。  
 ### 运行环境  
 * Windows  
